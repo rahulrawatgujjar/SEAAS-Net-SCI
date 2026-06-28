@@ -14,27 +14,63 @@ The framework consists of three main stages:
 2. Preprocessing Head
 3. Classification Head
 
-## Repository Status
+---
 
-The source code, trained models, and implementation details will be released upon acceptance of the paper.
+## Reproducibility Resources
+
+This repository provides an evaluation notebook that reproduces the reported results on the Dresden dataset using the released pretrained model and test patches.
+
+### Kaggle Resources
+
+### Pretrained SEAAS-Net Model
+
+https://www.kaggle.com/models/rahulrawatgujjar/best-seaas-model
+
+### Dresden Test Patches
+
+https://www.kaggle.com/datasets/rahulrawatgujjar/dresden-test-patches
+
+---
+
+## Contents
+
+* Pretrained SEAAS-Net model (Kaggle)
+* Dresden test patches (Kaggle)
+* Evaluation notebook
+* Requirements file
+
+The evaluation notebook reproduces the reported:
+
+* Patch-Level Accuracy
+* Image-Level Accuracy
+* Precision
+* Recall
+* F1-score
+* Confusion Matrix
+
+---
 
 ## Citation
 
-Citation information will be added after publication.
+If you find this work useful in your research, please cite:
+
+> Citation information will be updated after publication.
+
+---
 
 ## Authors
 
 * Rahul Rawat, National Institute of Technology Kurukshetra, India
 * Vishwas Rathi, National Institute of Technology Kurukshetra, India
 
+---
+
 ## Contact
 
-For questions regarding this work, please contact:
-
 **Rahul Rawat**
+
 [324103106@nitkkr.ac.in](mailto:324103106@nitkkr.ac.in)
 
-or
-
 **Dr. Vishwas Rathi**
+
 [vishwas@nitkkr.ac.in](mailto:vishwas@nitkkr.ac.in)
