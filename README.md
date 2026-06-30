@@ -20,15 +20,12 @@ The framework consists of three main stages:
 
 This repository provides an evaluation notebook that reproduces the reported results on the Dresden dataset using the released pretrained model and test patches.
 
-### Kaggle Resources
+### Pretrained Model & Test Patches
 
-### Pretrained SEAAS-Net Model
+The pretrained SEAAS-Net model and Dresden test patches are included in this repository:
 
-https://www.kaggle.com/models/rahulrawatgujjar/best-seaas-model
-
-### Dresden Test Patches
-
-https://www.kaggle.com/datasets/rahulrawatgujjar/dresden-test-patches
+* `pretrained_seaasnet_model/` - Pretrained model files
+* `dresden_test_patches/` - Dresden test patches
 
 ### Dataset Splits
 
@@ -48,8 +45,8 @@ This repository also includes `train_images.json` and `test_images.json` files f
 
 ## Contents
 
-* Pretrained SEAAS-Net model (Kaggle)
-* Dresden test patches (Kaggle)
+* Pretrained SEAAS-Net model
+* Dresden test patches
 * train_images.json and test_images.json for dresden_split, forchheim_split, and vision_split
 * Public links for the Dresden, Forchheim, and Vision datasets
 * Evaluation notebook
