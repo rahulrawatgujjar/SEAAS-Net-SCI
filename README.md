@@ -30,12 +30,28 @@ https://www.kaggle.com/models/rahulrawatgujjar/best-seaas-model
 
 https://www.kaggle.com/datasets/rahulrawatgujjar/dresden-test-patches
 
+### Dataset Splits
+
+This repository also includes `train_images.json` and `test_images.json` files for the following splits:
+
+* `dresden_split`
+* `forchheim_split`
+* `vision_split`
+
+### Public Dataset Links
+
+* Forchheim Dataset: https://faui1-files.cs.fau.de/public/mmsec/datasets/fodb/
+* Dresden Dataset: https://www.kaggle.com/datasets/micscodes/dresden-image-database
+* Vision Dataset: https://lesc.dinfo.unifi.it/VISION/
+
 ---
 
 ## Contents
 
 * Pretrained SEAAS-Net model (Kaggle)
 * Dresden test patches (Kaggle)
+* train_images.json and test_images.json for dresden_split, forchheim_split, and vision_split
+* Public links for the Dresden, Forchheim, and Vision datasets
 * Evaluation notebook
 * Requirements file
 
