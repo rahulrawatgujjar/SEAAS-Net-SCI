@@ -22,10 +22,10 @@ This repository provides an evaluation notebook that reproduces the reported res
 
 ### Pretrained Model & Test Patches
 
-The pretrained SEAAS-Net model and Dresden test patches are included in this repository:
+The pretrained SEAAS-Net model is included in this repository. The Dresden test patches are available on Kaggle due to their large size:
 
-* `pretrained_seaasnet_model/` - Pretrained model files
-* `dresden_test_patches/` - Dresden test patches
+* `pretrained_seaasnet_model/` - Pretrained model files (GitHub)
+* Dresden Test Patches: https://www.kaggle.com/datasets/rahulrawatgujjar/dresden-test-patches (Kaggle)
 
 ### Dataset Splits
 
